@@ -11,7 +11,7 @@ Selecting the optimal number of clusters is another key concept one should be aw
 
 [Cheatsheet for implementing 7 methods for selecting the optimal number of clusters in Python](https://towardsdatascience.com/cheat-sheet-to-implementing-7-methods-for-selecting-optimal-number-of-clusters-in-python-898241e1d6ad)
 
-We will be talking about 4 categories of models in this blog:
+We will be dealing with 4 categories of models in this code:
 1. K-means
 2. Agglomerative clustering
 3. Density-based spatial clustering (DBSCAN)
